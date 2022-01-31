@@ -17,7 +17,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" />
 
-### I am an Postgrad at Anna University India
+### I am an MCA Postgrad at Anna University India
 - 🔭 I am a web developer :grin:
 - 🔭 I’m currently learning Spring Framework :grin:
 - 🌱 I’m currently interning at Cognizant.
